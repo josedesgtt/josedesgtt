@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josedesgtt
 - 👀 I’m interested in computer science, fantasy books and cats.
 - 🌱 I’m currently learning C and Assembly.
-- 📫 How to reach me: josedesgtt@gmail.com.
+- 📫 How to reach me: jdesertigotta@mail.utdt.edu
 <!--- - 💞️ I’m looking to collaborate on .. --->
 
 <!---
